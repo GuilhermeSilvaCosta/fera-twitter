@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1558ca3418187c581d71709ab3afad06",
+    "revision": "415a83df4fb5fc9f959961ee68323e16",
     "url": "/fera-twitter/index.html"
   },
   {
-    "revision": "3b2f6e5cd39e1e83f7ad",
+    "revision": "8947c4e92b308f0859db",
     "url": "/fera-twitter/static/css/main.7fa70511.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fera-twitter/static/js/2.ec015c96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b2f6e5cd39e1e83f7ad",
-    "url": "/fera-twitter/static/js/main.38084c22.chunk.js"
+    "revision": "8947c4e92b308f0859db",
+    "url": "/fera-twitter/static/js/main.064a00e4.chunk.js"
   },
   {
     "revision": "bad6d4d6e061670a4029",
