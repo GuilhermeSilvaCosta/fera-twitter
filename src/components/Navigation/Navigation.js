@@ -17,11 +17,11 @@ function Navigation() {
         <div className="navigation-container">
             <ul>
                 <Link to="/">
-                    <li><img src="assets/icons/twitter.svg" alt="twitter" /></li>
+                    <li><img src={`${process.env.PUBLIC_URL}/assets/icons/twitter.svg`} alt="twitter" /></li>
                 </Link>
                 <Link to="/">
                     <li>
-                        <img src="assets/icons/home.svg" alt="home" />
+                        <img src={`${process.env.PUBLIC_URL}/assets/icons/home.svg`} alt="home" />
                         <strong>Página Inícial</strong>
                     </li>
                 </Link>
@@ -30,7 +30,7 @@ function Navigation() {
                         component={Link}
                         to="/profile"
                     >
-                        <img src="assets/icons/profile.svg" alt="home" />
+                        <img src={`${process.env.PUBLIC_URL}/assets/icons/profile.svg`} alt="home" />
                         <strong>Perfil</strong>
                     </li>
                 </Link>

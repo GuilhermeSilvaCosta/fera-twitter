@@ -55,7 +55,7 @@ function Main() {
                 <strong>Página Inicial</strong>
             </div>
             <div className="post">
-                <img src={user.image_url} alt="perfil" />
+                {!!user && <img src={user.image_url} alt="perfil" />}
                 <form onSubmit={handleSubmit}>
                     <textarea value={form.content} type="text" name="content" placeholder="O que está acontecendo?" onChange={handleChange} />
                     <div className="actions">
