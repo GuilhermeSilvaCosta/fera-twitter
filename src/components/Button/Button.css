@@ -1,0 +1,14 @@
+.button-container {
+    position: relative;
+}
+
+
+.button-container button {
+    background-color: rgb(29, 161, 242);
+    border: none;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}

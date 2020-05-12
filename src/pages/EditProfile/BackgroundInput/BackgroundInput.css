@@ -1,0 +1,17 @@
+.background-input-container {
+    align-self: center;
+    margin-bottom: 30px;
+}
+
+.background-input-container label {
+    cursor: pointer;
+    left: 0px !important;
+}
+
+.background-input-container label:hover {
+    opacity: 0.7;
+}
+
+.background-input-container label input {
+    display: none;
+}

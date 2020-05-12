@@ -1,0 +1,16 @@
+.avatar-input-container {
+    align-self: center;
+    margin-bottom: 30px;
+}
+
+.avatar-input-container label {
+    cursor: pointer;
+}
+
+.avatar-input-container label:hover {
+    opacity: 0.7;
+}
+
+.avatar-input-container label input {
+    display: none;
+}

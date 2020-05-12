@@ -1,0 +1,43 @@
+.main-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.main-container .title {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 20px;
+    border-bottom: 1px solid rgba(122, 122, 122, 0.5);
+}
+
+.main-container .post {
+    display: flex;
+    padding: 10px 20px;
+    border-bottom: 10px solid rgba(122, 122, 122, 0.178);
+}
+
+.main-container .post >img {
+    height: 48px;
+    width: 48px;
+    border-radius: 100%;
+}
+
+.main-container .post form {
+    width: calc(100% - 60px);
+}
+
+.main-container .post form textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    resize: none;
+}
+
+.main-container .post form .actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,47 @@
+.trend-topics-container {
+    padding: 10px;
+}
+
+.trend-topics-container input {
+    padding: 10px;
+    background-color: rgba(45, 57, 68, 0.493);
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+
+.trend-topics-container .panel {
+    background-color: rgba(45, 57, 68, 0.493);
+    border-radius: 20px;
+}
+
+.trend-topics-container .panel ul {
+    list-style: none;
+}
+
+.trend-topics-container .panel li {
+    padding: 10px;
+}
+
+.trend-topics-container .panel ul li + li {
+    border-top: 1px solid rgba(122, 122, 122, 0.5);
+}
+
+.trend-topics-container .panel ul li + li span {
+    font-size: 12px;
+    color: rgb(76, 90, 100);
+}
+
+.trend-topics-container .panel ul li + li strong {
+    cursor: pointer;
+}
+
+@media(max-width: 1100px) {
+    .trend-topics-container {
+        display: none;
+    }
+}
