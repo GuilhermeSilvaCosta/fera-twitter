@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fa70511.chunk.css",
-    "main.js": "/static/js/main.9bf727b5.chunk.js",
-    "main.js.map": "/static/js/main.9bf727b5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b5a95d76.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b5a95d76.js.map",
-    "static/js/2.ec015c96.chunk.js": "/static/js/2.ec015c96.chunk.js",
-    "static/js/2.ec015c96.chunk.js.map": "/static/js/2.ec015c96.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.843c7cd49d407d9a96fbcd656e711380.js": "/precache-manifest.843c7cd49d407d9a96fbcd656e711380.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7fa70511.chunk.css.map": "/static/css/main.7fa70511.chunk.css.map",
-    "static/js/2.ec015c96.chunk.js.LICENSE.txt": "/static/js/2.ec015c96.chunk.js.LICENSE.txt"
+    "main.css": "/fera-twitter/static/css/main.7fa70511.chunk.css",
+    "main.js": "/fera-twitter/static/js/main.38084c22.chunk.js",
+    "main.js.map": "/fera-twitter/static/js/main.38084c22.chunk.js.map",
+    "runtime-main.js": "/fera-twitter/static/js/runtime-main.225d3886.js",
+    "runtime-main.js.map": "/fera-twitter/static/js/runtime-main.225d3886.js.map",
+    "static/js/2.ec015c96.chunk.js": "/fera-twitter/static/js/2.ec015c96.chunk.js",
+    "static/js/2.ec015c96.chunk.js.map": "/fera-twitter/static/js/2.ec015c96.chunk.js.map",
+    "index.html": "/fera-twitter/index.html",
+    "precache-manifest.30d546e4a17d73e08388c5a5cf16fbeb.js": "/fera-twitter/precache-manifest.30d546e4a17d73e08388c5a5cf16fbeb.js",
+    "service-worker.js": "/fera-twitter/service-worker.js",
+    "static/css/main.7fa70511.chunk.css.map": "/fera-twitter/static/css/main.7fa70511.chunk.css.map",
+    "static/js/2.ec015c96.chunk.js.LICENSE.txt": "/fera-twitter/static/js/2.ec015c96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5a95d76.js",
+    "static/js/runtime-main.225d3886.js",
     "static/js/2.ec015c96.chunk.js",
     "static/css/main.7fa70511.chunk.css",
-    "static/js/main.9bf727b5.chunk.js"
+    "static/js/main.38084c22.chunk.js"
   ]
 }
