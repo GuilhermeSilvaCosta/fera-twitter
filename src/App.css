@@ -24,3 +24,9 @@
     grid-template-columns: 60px 600px;
   }
 }
+
+@media(max-width: 660px) {
+  .app-container {
+    grid-template-columns: 60px 1fr;
+  }
+}
