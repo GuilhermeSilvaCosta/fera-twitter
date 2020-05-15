@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fera-twitter/precache-manifest.5b99861d7df96645b053ebfbefbae504.js"
+  "/fera-twitter/precache-manifest.be2bd5f9e77179c2f464845da4e690ef.js"
 );
 
 self.addEventListener('message', (event) => {

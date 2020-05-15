@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fera-twitter/static/css/main.7fa70511.chunk.css",
+    "main.css": "/fera-twitter/static/css/main.2bed8d69.chunk.css",
     "main.js": "/fera-twitter/static/js/main.34f0ec2a.chunk.js",
     "main.js.map": "/fera-twitter/static/js/main.34f0ec2a.chunk.js.map",
     "runtime-main.js": "/fera-twitter/static/js/runtime-main.225d3886.js",
@@ -8,15 +8,15 @@
     "static/js/2.ec015c96.chunk.js": "/fera-twitter/static/js/2.ec015c96.chunk.js",
     "static/js/2.ec015c96.chunk.js.map": "/fera-twitter/static/js/2.ec015c96.chunk.js.map",
     "index.html": "/fera-twitter/index.html",
-    "precache-manifest.5b99861d7df96645b053ebfbefbae504.js": "/fera-twitter/precache-manifest.5b99861d7df96645b053ebfbefbae504.js",
+    "precache-manifest.be2bd5f9e77179c2f464845da4e690ef.js": "/fera-twitter/precache-manifest.be2bd5f9e77179c2f464845da4e690ef.js",
     "service-worker.js": "/fera-twitter/service-worker.js",
-    "static/css/main.7fa70511.chunk.css.map": "/fera-twitter/static/css/main.7fa70511.chunk.css.map",
+    "static/css/main.2bed8d69.chunk.css.map": "/fera-twitter/static/css/main.2bed8d69.chunk.css.map",
     "static/js/2.ec015c96.chunk.js.LICENSE.txt": "/fera-twitter/static/js/2.ec015c96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.225d3886.js",
     "static/js/2.ec015c96.chunk.js",
-    "static/css/main.7fa70511.chunk.css",
+    "static/css/main.2bed8d69.chunk.css",
     "static/js/main.34f0ec2a.chunk.js"
   ]
 }
